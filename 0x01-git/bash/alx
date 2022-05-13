@@ -1,0 +1,14 @@
+echo "ALX"
+#! /bin/bash
+ echo ALX >>bash/alx
+
+echo -e '#!/bin/bash
+ echo ALX' >>bash/alx
+
+ls
+cd 0x01-git/
+cd ..
+echo -e #! /bin/bashn echo ALX
+#!/bin/bash
+ echo "ALX"
+#!/bin/bash \n echo "ALX"
