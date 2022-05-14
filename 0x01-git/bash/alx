@@ -1,4 +1,4 @@
-echo "ALX"
+echo "ALX School is so cool!"
 #! /bin/bash
  echo ALX >>bash/alx
 
@@ -10,5 +10,5 @@ cd 0x01-git/
 cd ..
 echo -e #! /bin/bashn echo ALX
 #!/bin/bash
- echo "ALX"
+ echo "ALX School is so cool!"
 #!/bin/bash \n echo "ALX"
