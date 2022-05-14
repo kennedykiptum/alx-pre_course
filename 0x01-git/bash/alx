@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 echo "ALX School is so cool!"
+=======
+echo "ALX School"
+>>>>>>> update_script
 #! /bin/bash
  echo ALX >>bash/alx
 
@@ -10,5 +14,9 @@ cd 0x01-git/
 cd ..
 echo -e #! /bin/bashn echo ALX
 #!/bin/bash
+<<<<<<< HEAD
  echo "ALX School is so cool!"
+=======
+ echo "ALX School"
+>>>>>>> update_script
 #!/bin/bash \n echo "ALX"

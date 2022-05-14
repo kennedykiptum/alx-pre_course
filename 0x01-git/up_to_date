@@ -1,0 +1,2 @@
+fetch --all "to get all changes"
+touch up_to_date to create file
